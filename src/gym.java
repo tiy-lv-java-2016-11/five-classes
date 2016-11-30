@@ -3,7 +3,7 @@
  */
 
 //stores basic gym information
-public class gym {
+public class Gym {
     String name;
     String location;
     int openingTime;

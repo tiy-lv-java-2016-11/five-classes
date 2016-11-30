@@ -2,7 +2,7 @@
  * Created by lbregula on 11/28/16.
  */
 //Contains cat stats
-public class cat {
+public class Cat {
     int ageOfCat;
     int weightOfCat;
     String colorOfCat;

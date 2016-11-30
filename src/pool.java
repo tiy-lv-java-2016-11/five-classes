@@ -3,7 +3,7 @@
  */
 
 //Stores pool information
-public class pool {
+public class Pool {
     int poolCapacity;
     int minDepth;
     int maxDepth;
