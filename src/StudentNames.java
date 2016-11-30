@@ -1,12 +1,26 @@
 /**
- * Created by darionmoore on 11/28/16.
+ * //This is suppose to make a list of student names in class.
  */
 public class StudentNames {
-    String firstName = "";
-    String lastName = "";
-    String studentList = new "firstName" + "lastName";
+    private String firstName = "";
+    private String lastName = "";
+
+    public StudentNames (String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+
+    }
+
+    String newStudent = firstName +  " " + lastName;
+
+
+
+
+
+
+
 
 
 }
 
-// This is supposed make a list of Students in a class.
+

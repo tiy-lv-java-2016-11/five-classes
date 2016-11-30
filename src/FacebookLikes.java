@@ -1,5 +1,6 @@
 /**
- * Created by darionmoore on 11/28/16.
+ * //This if containing facebook posts, comments, whether or not someone liked it, not who liked it though, and how many
+// people have liked it.
  */
 public class FacebookLikes {
     String post = "";
@@ -8,5 +9,3 @@ public class FacebookLikes {
     int thumbClickCount;
 }
 
-//This if containing facebook posts, comments, whether or not someone liked it, not who liked it though, and how many
-// people have liked it.
