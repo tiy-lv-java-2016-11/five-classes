@@ -5,7 +5,7 @@
 public class Car{
         String color = "red";
         String make = "ford";
-        int numberOfHorses = 100;
+        int horsepower = 100;
         boolean isNew = true;
 }
 

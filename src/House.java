@@ -5,9 +5,9 @@
 public class House {
     String location;
     String outsideColor;
-    int houseNumber;
-    int priceOfHouse;
-    boolean isForRent;
+    int Number;
+    int Price;
+    boolean isRentable;
 
 
 }

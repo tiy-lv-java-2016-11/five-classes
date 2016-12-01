@@ -6,6 +6,6 @@ public class Book {
     String name;
     String author;
     int numberOfPages;
-    boolean hardCoverOrNaw;
+    boolean isHardCover;
 
 }
